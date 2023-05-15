@@ -1,6 +1,7 @@
 # Emotion-Detection-Using-OpenCV
 Using the Python OpenCV Library the camera will detect the face and compare it to the database and predict the emotion like 'Anger','Fear','Surprise','Happy'and 'Sad'
 ### Emotion_Detection
+![image](https://github.com/ASH1110/Emotion-Detection-Using-OpenCV/assets/87519109/47750e2b-0503-4f28-98e9-8fbcf9d40d53)
 
 ### Abstract:
 
@@ -11,6 +12,9 @@ Facial recognition is a very useful tool and has been explored extensively in re
 - `Emotion_Detection.py`: Detect faces inside a image (one frame)
 - `videotester.py`: Detect faces inside a video file
 - `tempCodeRunnerFile.py`: Destroy All Windows
+- 
+## Output
+![image](https://github.com/ASH1110/Emotion-Detection-Using-OpenCV/assets/87519109/1a7be87f-9476-4e08-886e-1815544d3aca)
 
 
 ## Usage
@@ -25,7 +29,6 @@ Once Clone the Repo, head on to the repository.
 <br> 
 Here you will find two code files, once is for images and other one is for video stream.
 
-## PPT: [Emotion Detection.pptx](https://github.com/bhoomildayani182/Motion_Detection/files/9600935/Emotion.Detection.pptx)
 
 ## Block: https://motiondetectionsgp.blogspot.com/
 
